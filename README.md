@@ -42,8 +42,6 @@ CREATE TABLE interviews (
 ```
 You may or may not any data into the interviews table. The data will be added automatically when you scedule a new interview.
 
-Change the following in ```server/dbServicejs``` if your MySQL server is setup on different port or has different credentials.
-![MySQL credentials](https://i.paste.pics/9WL5X.png)
 
 Now when everything is setup. Run the server:
 ```
@@ -57,5 +55,6 @@ Here is the screenshot of the working system / frontend.
 ![screenshot](https://github.com/rachit260499/interviewBit-task/blob/main/Screenshot%20(22).png)
 
 Working video.
-![video](https://github.com/rachit260499/interviewBit-task/blob/main/Interview%20Schedular%20-%20Google%20Chrome%202021-11-07%2010-44-46.mp4)
+[![Watch the video](https://github.com/rachit260499/interviewBit-task/blob/main/Interview%20Schedular%20-%20Google%20Chrome%202021-11-07%2010-44-46.mp4)
+
 
