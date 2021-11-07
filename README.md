@@ -56,3 +56,6 @@ Then open go to client and open index.html.
 Here is the screenshot of the working system / frontend.
 ![screenshot](https://github.com/rachit260499/interviewBit-task/blob/main/Screenshot%20(22).png)
 
+Working video.
+![video](https://github.com/rachit260499/interviewBit-task/blob/main/Interview%20Schedular%20-%20Google%20Chrome%202021-11-07%2010-44-46.mp4)
+
